@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+<configSections>
+</configSections>
+  <connectionStrings>
+    <add name="NNTDBEntities" connectionString="metadata=res://*/ModelDB.csdl|res://*/ModelDB.ssdl|res://*/ModelDB.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=111.223.32.9;initial catalog=NNT_DataCenter;persist security info=True;user id=dbuser_km;password=123456;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1"/></startup></configuration>

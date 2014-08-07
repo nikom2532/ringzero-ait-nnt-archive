@@ -1,0 +1,9 @@
+<root>
+	<Server>
+		<ServerName>CSI017-PC\SQLSERVER2008</ServerName>
+		<DbName>NNT_DataCenter_2</DbName>
+    		<DbUser>sa</DbUser>
+    		<DbPass>a0u4pWwboWNQ4rF1ngWblg==</DbPass>
+		<DbTimeOut>60</DbTimeOut>
+	</Server>
+</root>
